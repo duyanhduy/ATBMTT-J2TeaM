@@ -1,0 +1,8 @@
+E:\D\ATBMTT\Nộp bài\Source\Form\bin\Debug\Form.exe
+E:\D\ATBMTT\Nộp bài\Source\Form\bin\Debug\Form.pdb
+E:\D\ATBMTT\Nộp bài\Source\Form\obj\x86\Debug\Form.csprojResolveAssemblyReference.cache
+E:\D\ATBMTT\Nộp bài\Source\Form\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\D\ATBMTT\Nộp bài\Source\Form\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\D\ATBMTT\Nộp bài\Source\Form\obj\x86\Debug\Form.csproj.GenerateResource.Cache
+E:\D\ATBMTT\Nộp bài\Source\Form\obj\x86\Debug\Form.exe
+E:\D\ATBMTT\Nộp bài\Source\Form\obj\x86\Debug\Form.pdb
